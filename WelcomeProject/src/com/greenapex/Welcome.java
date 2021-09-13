@@ -9,6 +9,10 @@ public class Welcome {
 		System.out.println("hiii");
         System.out.println("hello");
         System.out.println("hello git");
+        System.out.println("hii this first git commit");
+		System.out.println("hiii");
+        System.out.println("hello");
+        System.out.println("hello git");
 	}
 
 }
