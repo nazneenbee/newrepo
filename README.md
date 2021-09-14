@@ -1,3 +1,3 @@
 # newrepo
 new repository
-this jenkins try
+this jenkins tried
